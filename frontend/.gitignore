@@ -1,0 +1,33 @@
+# React specific
+/build
+/public/build
+
+# Create React App specific
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+/coverage
+
+# Storybook
+/storybook-static
+
+# Tailwind CSS
+/src/**/*.css.map
+
+# React DevTools
+.react-devtools
+
+# Bundle analyzer
+/bundle-analyzer-report.html
+
+# Webpack
+.webpack/
+
+# ESLint cache
+.eslintcache
+
+# Prettier cache
+.prettiercache
